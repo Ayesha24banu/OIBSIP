@@ -68,14 +68,19 @@ This solution helps business email systems, organizations, and spam filters to i
 
 ## 📸 Project Demo
 
-### Streamlit Web App
-![App Demo](images/app_demo.png)
+### Streamlit Web App:
 
-### Example Predictions
-![Prediction Screenshot](images/prediction_example.png)
+<img width="1916" height="966" alt="Single_Email_Ham_Detection" src="https://github.com/user-attachments/assets/45f2ff7b-13b0-49de-96d6-98341efb9b65" />
 
-### Model Evaluation
-![Confusion Matrix](images/confusion_matrix.png)
+
+### Example Predictions:
+**📝 Single Message Prediction**
+
+<img width="1916" height="966" alt="Single_Email_Spam_Detection" src="https://github.com/user-attachments/assets/30250ebd-d02e-4a4a-b2e9-f21820d0f009" />
+
+**📊 Batch Prediction**
+
+<img width="1914" height="1452" alt="Batch_Email_Spam_Detection" src="https://github.com/user-attachments/assets/2b0c5781-e37b-477b-b4c9-d1dc70db987a" />
 
 ---
 
@@ -144,6 +149,7 @@ email_spam_detection/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 ---
 
 ## 🔍 Project Workflow
@@ -233,6 +239,10 @@ streamlit run app.py
 ## 🎥 Demo
 
 📌 Watch the working demo here:
+
+
+https://github.com/user-attachments/assets/230dd81d-cccd-4078-b383-318c8d2272ca
+
 
 ---
 
