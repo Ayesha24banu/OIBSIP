@@ -13,12 +13,12 @@
 5. [Dataset](#dataset)  
 6. [Installation](#installation)  
 7. [Usage](#usage)  
-   - [Example Inputs](#example-inputs)  
-8. [Results](#results)  
-9. [Screenshots](#screenshots)  
-10. [Future Improvements](#future-improvements)  
-11. [License](#license)  
-12. [Author](#author)  
+8. [Example Inputs](#example-inputs)  
+9. [Results](#results)  
+10. [Screenshots](#screenshots)  
+11. [Future Improvements](#future-improvements)  
+12. [License](#license)  
+13. [Author](#author)  
 
 ---
 
@@ -159,13 +159,31 @@ Year of Purchase: 2001
 
 ## Screenshots
 
-App Interface
+**App Interface:**
+
+<img width="1912" height="1625" alt="Car_Price_Prediction" src="https://github.com/user-attachments/assets/802b9ff7-3f35-47b9-a79f-9438a722d2fd" />
 
 
-Prediction Output
+**Prediction Output:**
+
+https://github.com/user-attachments/assets/f6b8ccb2-1f13-4120-b99c-13ce709507a2
 
 
-EDA & Correlation
+**EDA & Correlation:**
+
+<img width="600" height="400" alt="Selling_type_distribution" src="https://github.com/user-attachments/assets/8f2a881a-2a50-472f-b1c0-b00eea7dbf95" />
+
+<img width="600" height="400" alt="Fuel_Type_distribution" src="https://github.com/user-attachments/assets/94602475-b86c-4b1a-b6a3-8ec59515c956" />
+
+<img width="600" height="400" alt="Transmission_distribution" src="https://github.com/user-attachments/assets/48584116-bb55-404f-94bf-4991c7af30df" />
+
+<img width="800" height="500" alt="selling_price_distribution" src="https://github.com/user-attachments/assets/d29459c6-96db-4090-b94f-4884c49843e9" />
+
+<img width="1000" height="500" alt="top10_car_models" src="https://github.com/user-attachments/assets/107338e7-2910-4471-bd60-704ccabe0251" />
+
+<img width="800" height="500" alt="car_age_vs_selling_price" src="https://github.com/user-attachments/assets/563f4042-0e9a-4186-93ec-99456dd7742e" />
+
+<img width="1000" height="600" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/5fe0d499-398d-4c2d-a29a-4b19cda14d44" />
 
 ---
 
