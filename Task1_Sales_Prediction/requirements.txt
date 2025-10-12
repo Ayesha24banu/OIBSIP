@@ -1,0 +1,19 @@
+# =========================================
+# requirements.txt - Sales Prediction Project
+# =========================================
+
+# Data processing & ML
+pandas
+numpy
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Streamlit for web app
+streamlit
+
+# Logging (standard library, included with Python)
+# no need to install

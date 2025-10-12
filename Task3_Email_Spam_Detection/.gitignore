@@ -1,0 +1,53 @@
+# =============================
+# Byte-compiled / Python cache
+# =============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =============================
+# Virtual environment
+# =============================
+venv/
+env/
+.venv/
+.env/
+
+# =============================
+# Jupyter / Notebook checkpoints
+# =============================
+.ipynb_checkpoints/
+
+# =============================
+# Logs (optional)
+# =============================
+logs/
+*.log
+
+# =============================
+# OS files
+# =============================
+.DS_Store
+Thumbs.db
+
+# =============================
+# IDE / Editor
+# =============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =============================
+# Python packaging / distribution
+# =============================
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# =============================
+# Temporary / misc
+# =============================
+*.sqlite

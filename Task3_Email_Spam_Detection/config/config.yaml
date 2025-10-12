@@ -1,0 +1,28 @@
+# =========================
+# Configuration File
+# =========================
+
+# Paths are relative to project root
+data:
+  raw_path: "data/spam.csv"
+  processed_path: "data/processed_spam.csv"
+
+features:
+  max_features: 5000   # TF-IDF features
+
+split:
+  test_size: 0.2
+  random_state: 42
+
+models:
+  save_dir: "models"
+  vectorizer_filename: "tfidf_vectorizer.pkl"
+  default_model_filename: "model.pkl"
+
+logging:
+  # Logging config file
+  config_file: "config/logging.conf"
+
+# Dynamic directories
+dirs:
+  logs_dir: "logs"

@@ -1,0 +1,18 @@
+streamlit
+
+# Data processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Logging
+# built-in logging module, no need to install
+
+# OS / Path utilities (built-in)
+# os, sys, pickle, etc., no need to install
