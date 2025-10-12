@@ -196,19 +196,13 @@ Features:
 
 ---
 
-## Results
+## Results (Screenshot):
 
-### Example prediction:
+<img width="1920" height="1975" alt="Advertising_Sales_Prediction_1" src="https://github.com/user-attachments/assets/08f5fd35-071a-4ac4-be92-f67b2e9a3cc8" />
 
-Input:
-      {
-        "TV": 100,
-        "Radio": 30,
-        "Newspaper": 20
-      }
 
-Output:
-       Predicted Sales: 13.77
+https://github.com/user-attachments/assets/f4659e25-5e96-492b-a60b-3656a4cbf589
+
 
 ---
 
