@@ -1,11 +1,7 @@
-# =========================================
-# requirements.txt - Sales Prediction Project
-# =========================================
-
 # Data processing & ML
 pandas
 numpy
-scikit-learn
+scikit-learn==1.2.2
 joblib
 
 # Visualization
